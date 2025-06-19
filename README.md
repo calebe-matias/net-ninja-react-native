@@ -1,1 +1,0 @@
-# net-ninja-react-native
